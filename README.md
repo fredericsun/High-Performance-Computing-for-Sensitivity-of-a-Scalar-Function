@@ -1,8 +1,3 @@
-# me759-final
-#Group leader: Yue Sun, ysun276@wisc.edu
-#Group member: Yang Liu, liu574@wisc.edu
-
-
 # jacobian.cu: source file of the GPU parallel computing of Jacobian
 # jacobian_cpu_op.cu: source file of the CPU computing of Jacobian using OpenMP
 # jacobian_cpu.cu: source file of the CPU computing of Jacobian for verification purpose
