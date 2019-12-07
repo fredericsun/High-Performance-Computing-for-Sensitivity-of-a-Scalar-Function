@@ -1,4 +1,4 @@
-###File Description
+### File Description
 
 jacobian.cu: source file of the GPU parallel computing of Jacobian
 jacobian_cpu_op.cu: source file of the CPU computing of Jacobian using OpenMP
